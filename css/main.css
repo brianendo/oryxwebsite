@@ -1,0 +1,84 @@
+body {
+	background-color: #E67E22;
+	padding-top: 70px;
+	margin-top: -50px;
+}
+
+.solve {
+	font-family: 'Arvo', serif;
+	font-weight: bold;
+	font-size: 42pt;
+}
+
+.sarcasm {
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 48pt;
+}
+
+.mc-field-group {
+	padding: 20px;
+}
+
+#mce-EMAIL {
+	font-family: 'Arvo', serif;
+	color: black;
+	font-size: 16pt;
+	background-color: #E67E22;
+	border-color: #D8D8D8;
+	height: 45px;
+	width: 350px;
+	text-align: center;
+}
+
+#mc-embedded-subscribe {
+	margin: 10px;
+	height: 30px;
+	width: 200px;
+	font-family: 'Arvo', serif;
+	border-color: black;
+	background-color: white;
+	font-size: 16px;
+}
+
+#logo {
+	height: 50px;
+	width: 50px;
+	float: left;
+	margin-left: 20px;
+}
+
+#proto {
+	margin-top: -150px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.clear {
+	margin: auto;
+}
+
+
+#sub #mc_embedded_subscribe {
+	display: block;
+	margin: auto;
+}
+
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #D8D8D8;
+    text-align: center;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    #D8D8D8;
+   opacity:  1;
+   text-align: center;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    #D8D8D8;
+   opacity:  1;
+   text-align: center;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+   color:    #D8D8D8;
+   text-align: center;
+}
